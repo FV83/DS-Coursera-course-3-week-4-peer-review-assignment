@@ -2,7 +2,7 @@
 
 ## How to use the R program run_analysis.R:
 * First import the data https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
-* Set your R working directory to where you store the downloaded zip file
+* Set your R working directory to where you stored the downloaded zip file
 * run run_analysis.R
 
 ## What it does:
