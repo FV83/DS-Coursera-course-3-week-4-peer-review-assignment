@@ -3,8 +3,9 @@
 ## How to use the R program run_analysis.R:
 * First import the data https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 * Set your R working directory to where you store the downloaded zip file
+* run run_analysis.R
 
-# What it does:
+## What it does:
 * Merges the training and the test sets to create one data set.
 * Extracts only the measurements on the mean and standard deviation for each measurement.
 * Uses descriptive activity names to name the activities in the data set
